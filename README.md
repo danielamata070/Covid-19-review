@@ -3,7 +3,7 @@ Describing the Excess of Deaths due to Covid-19
 # Coronavirus Pandemic hitting the world
 **Official Covid-19 death toll is not accurate** as it misses the people not being tested and people dying at home. It is unprecise to compare two countrie's data in number of people inffected and deaths. 
 **deaths.csv** shows data from Austria and as for many other countries of their number of deaths per weeks and months.
-There are: 
+<p>There are:<br> 
 <ul>
 <li>Expected deaths</li>
 <li>deaths</li>
