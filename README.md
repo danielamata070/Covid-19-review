@@ -9,4 +9,5 @@ There are:
 <li>deaths</li>
 <li>Excess deaths</li>
 </ul>
+
 **Methodology**: Data comes from journalists in various countries monitoring the official data released, they also ask government for information. Hence, this could be reliable. However, all figures al limited due to the above mentioned factorss, figures missing. 
